@@ -74,7 +74,7 @@ Please let us know:
 	</div>
 </div>
 
-<div class="g-mb-25" data-netlify-recaptcha="true"></div>
+<div class="g-mb-50" data-netlify-recaptcha="true"></div>
 
 <button type="submit" class="btn btn-primary">Submit interest</button>
 </form>
