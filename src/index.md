@@ -73,11 +73,10 @@ Please let us know:
 		</div>
 		<div class="g-mb-25" data-netlify-recaptcha="true"></div>
 	</div>
-</div>
-
-<div class="card-footer">
-	<button type="submit" class="btn btn-primary">Submit interest</button>
-	<a href="https://www.mastersbasketballtournaments.com" class="btn btn-secondary">back</a>
+	<div class="card-footer">
+		<button type="submit" class="btn btn-primary">Submit interest</button>
+		<a href="https://www.mastersbasketballtournaments.com" class="btn btn-secondary">back</a>
+	</div>
 </div>
 </form>
 
