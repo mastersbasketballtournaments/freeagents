@@ -15,8 +15,8 @@ Once we have something to share we may contact you to ask that you register for 
 
 Please let us know:
 
-<form name="free_agent_basketball_masters_expression_of_interest" action="/subscribe/thank-you/" method="POST" data-netlify="true" netlify-honeypot="subscribe" data-netlify-recaptcha="true">
-<input name="subject" type="hidden" value="Subscription Request" />
+<form name="expression_of_interest" action="/subscribe/thank-you/" method="POST" data-netlify="true" netlify-honeypot="subscribe" data-netlify-recaptcha="true">
+<input name="subject" type="hidden" value="Free Agent Basketball Masters - Expression of Interest" />
 <p class="subscribe">
 	<label>
 		Don't fill this out if you're human: <input name="subscribe" />
@@ -74,9 +74,9 @@ Please let us know:
 	</div>
 </div>
 
-<div class="g-mb-50" data-netlify-recaptcha="true"></div>
+<div class="g-mb-25" data-netlify-recaptcha="true"></div>
 
-<button type="submit" class="btn btn-primary">Submit interest</button>
+<button type="submit" class="btn btn-primary g-mt-25">Submit interest</button>
 </form>
 
 Masters Basketball Tournaments
