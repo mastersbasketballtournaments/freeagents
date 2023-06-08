@@ -50,19 +50,19 @@ Please let us know:
 					<div class="col-md-6">
 						<div class="form-group">
 							<div class="form-check">
-								<input id="player" name="roles[]" class="form-check-input" type="checkbox" value="Yes">
+								<input id="player" name="player" class="form-check-input" type="checkbox" value="Yes">
 								<label for="player" class="form-check-label">Player</label>
 							</div>
 						</div>
 						<div class="form-group">
 							<div class="form-check">
-								<input id="team_manager" name="roles[]" class="form-check-input" type="checkbox" value="Yes">
+								<input id="team_manager" name="team_manager" class="form-check-input" type="checkbox" value="Yes">
 								<label for="team_manager" class="form-check-label">Team manager</label>
 							</div>
 						</div>
 						<div class="form-group">
 							<div class="form-check">
-								<input id="tournament_director" name="roles[]" class="form-check-input" type="checkbox" value="Yes">
+								<input id="tournament_director" name="tournament_director" class="form-check-input" type="checkbox" value="Yes">
 								<label for="tournament_director" class="form-check-label">Tournament director</label>
 							</div>
 						</div>
@@ -76,7 +76,9 @@ Please let us know:
 
 <div class="g-mb-25" data-netlify-recaptcha="true"></div>
 
-<button type="submit" class="btn btn-primary g-mt-25">Submit interest</button>
+<div class="g-mt-25">
+	<button type="submit" class="btn btn-primary">Submit interest</button>
+</div>
 </form>
 
 Masters Basketball Tournaments
