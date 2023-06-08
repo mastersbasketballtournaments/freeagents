@@ -1,0 +1,21 @@
+{
+  "name": "free_agent_basketball_masters",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "rm -rf ./_site && npm run build:eleventy",
+    "build:eleventy": "npx @11ty/eleventy --input ./src/",
+    "dev": "rm -rf ./_site && npm run dev:eleventy",
+    "dev:eleventy": "npx @11ty/eleventy --input ./src/ --serve"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1"
+  },
+  "dependencies": {
+    "dotenv": "^16.1.4"
+  }
+}

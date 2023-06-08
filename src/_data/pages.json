@@ -1,0 +1,39 @@
+[
+	{
+		"id": "home"
+		,"menu": "Home"
+		,"title": "Bill Perry Law"
+		,"subtitle": "Arbitrator - Mediator - Legal Adviser - Counsellor at Law"
+		,"file": "home.html"
+	}
+	,{
+		"id": "mediation"
+		,"menu": "Mediation - Arbitration - A D R"
+		,"title": "Mediation - Arbitration - A D R"
+		,"file": "mediation.html"
+	}
+	,{
+		"id": "advisor"
+		,"menu": "Legal Adviser - Counsellor at Law"
+		,"title": "Legal Adviser - Counsellor at Law"
+		,"file": "advisor.html"
+	}
+	,{
+		"id": "career"
+		,"menu": "Career Overview"
+		,"title": "Career Overview"
+		,"file": "careerOverview.html"
+	}
+	,{
+		"id": "cases"
+		,"menu": "Reported Cases"
+		,"title": "Reported Cases"
+		,"file": "reportedCases.html"
+	}
+	,{
+		"id": "recognition"
+		,"menu": "Directory Recognition"
+		,"title": "Directory Recognition"
+		,"file": "directoryRecognition.html"
+	}
+]
