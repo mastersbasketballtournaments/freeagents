@@ -5,13 +5,13 @@ Free Agent Basketball Masters
 
 Hello,
 
-This is a proposed new feature from the [Masters Basketball Tournaments](https://www.mastersbasketballtournaments.com) team that is currently in the planning stage. It was born out of our struggles to break into the Masters basketball circuit.
+This is a proposed new feature from the [Masters Basketball Tournaments](https://www.mastersbasketballtournaments.com) team that is currently in the planning stage. This initiative was born out of our struggles to break into the Masters basketball circuit and hearing that many others seem to have the same problem.
 
 The basic idea is a match-making service that aims to help Masters basketball players looking for a team, and teams looking for players, to make contact, worldwide. The incidental benefit, for Tournament Directors, is that they no longer have to be the intermediary between players and teams, therefore freeing them up for the enormous task of actually putting on the tournament for us players!
 
 Currently we're looking for expressions of interest in the service. It would be helpful if you could complete the following form so that we can gauge the interest in the idea.
 
-Once we have something to share we may contact you to ask that you register for the service in one or all of the following roles.
+Once we have something more to share, we may ask you to register for the service in all of the roles that you might have an interest in.
 
 Please let us know:
 
@@ -45,7 +45,7 @@ Please let us know:
 				</div>
 			</div>
 			<div class="col-md-6">
-				<h5>Roles</h5>
+				<h5>Interest Roles</h5>
 				<div class="row">
 					<div class="col-md-12">
 						<div class="form-group">
