@@ -3,13 +3,13 @@
 Free Agent Basketball Masters
 </h1>
 
-Hiya,
+Hello,
 
-This is a new feature in the planning phase from [Masters Basketball Tournaments](https://www.mastersbasketballtournaments.com).
+This is a proposed new feature from the [Masters Basketball Tournaments](https://www.mastersbasketballtournaments.com) team that is currently in the planning stage. It was born out of our struggles to break into the Masters basketball circuit.
 
-The basic idea is a match-making service that aims to help players looking for a team and teams looking for player, on the Masters basketball circuit worldwide. The incidental benefit for Tournament Directors is that they no longer have to be the intermediary between players and teams, therefore freeing them up for the enormous task of actually putting on the tournament!
+The basic idea is a match-making service that aims to help Masters basketball players looking for a team, and teams looking for players, to make contact, worldwide. The incidental benefit, for Tournament Directors, is that they no longer have to be the intermediary between players and teams, therefore freeing them up for the enormous task of actually putting on the tournament for us players!
 
-Currently we're looking for expressions of interest in the service. It would help if you could complete the following form so that we can gauge the interest in the idea.
+Currently we're looking for expressions of interest in the service. It would be helpful if you could complete the following form so that we can gauge the interest in the idea.
 
 Once we have something to share we may contact you to ask that you register for the service in one or all of the following roles.
 
@@ -47,7 +47,7 @@ Please let us know:
 			<div class="col-md-6">
 				<h5>Roles</h5>
 				<div class="row">
-					<div class="col-md-6">
+					<div class="col-md-12">
 						<div class="form-group">
 							<div class="form-check">
 								<input id="player" name="player" class="form-check-input" type="checkbox" value="Yes">
@@ -67,6 +67,9 @@ Please let us know:
 							</div>
 						</div>
 						<p>Please select all that apply</p>
+						<div>
+							<textarea id="comments" name="comments" class="form-control form-control-md rounded-0" rows="3" placeholder="Please share your thoughts here"></textarea>
+						</div>
 					</div>
 				</div>
 			</div>
@@ -79,7 +82,5 @@ Please let us know:
 	</div>
 </div>
 </form>
-
-Masters Basketball Tournaments
 
 The information you share will be treated with respect and not sold or given to any other site, service or person. Should the project not go ahead your information will be destroyed.
