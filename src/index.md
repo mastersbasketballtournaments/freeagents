@@ -5,17 +5,15 @@ Free Agent Basketball Masters
 
 Hello,
 
-This is a proposed new feature from your friends at [Masters Basketball Tournaments](https://www.mastersbasketballtournaments.com) that is currently in the planning stage. This initiative is born out of the struggles we had to break into the Masters basketball circuit and hearing that many others seem to have the same problem.
+This is a proposed new service from your friends at [Masters Basketball Tournaments](https://www.mastersbasketballtournaments.com) that is currently in the scoping phase. This initiative is born out of the struggles we had to break into the Masters basketball circuit ourselves and hearing that many others seem to have experienced the same problem.
 
-The basic idea is a match-making service that aims to help Masters basketball players looking for a team, and teams looking for players, to make contact, worldwide. The incidental benefit, for Tournament Directors, is that they no longer have to be the intermediary between players and teams, therefore freeing them up for the enormous task of actually putting on the tournament for us players!
+The central idea is a match-making service that aims to help Masters basketball players worldwide looking for a team, and teams looking for players, to make contact. The incidental benefit, for Tournament Directors, is that they no longer have to be the intermediary between players and teams, therefore freeing them up for the enormous task of actually putting on the tournament for us players!
 
 Currently we're looking for expressions of interest in the service. It would be helpful if you could complete the following form so that we can gauge the interest in the idea.
 
 Once we have something more to share, we may ask you to register for the service in all of the roles that you might have an interest in.
 
-Please let us know:
-
-<form name="expression_of_interest" action="/subscribe/thank-you/" method="POST" data-netlify="true" netlify-honeypot="subscribe" data-netlify-recaptcha="true">
+<form name="expression_of_interest" action="/thank-you/" method="POST" data-netlify="true" netlify-honeypot="subscribe" data-netlify-recaptcha="true">
 <input name="subject" type="hidden" value="Free Agent Basketball Masters - Expression of Interest" />
 <p class="subscribe">
 	<label>
@@ -30,7 +28,7 @@ Please let us know:
 	<div class="card-body">
 		<div class="row">
 			<div class="col-md-6">
-				<h5>Contact details</h5>
+				<h5>Contact Details</h5>
 				<div class="form-group">
 					<label for="given_name">Given name *</label>
 					<input id="given_name" name="given_name" type="text" class="form-control" placeholder="Your given name" maxlength="255" autofocus required>
@@ -57,13 +55,13 @@ Please let us know:
 						<div class="form-group">
 							<div class="form-check">
 								<input id="team_manager" name="team_manager" class="form-check-input" type="checkbox" value="Yes">
-								<label for="team_manager" class="form-check-label">Team manager</label>
+								<label for="team_manager" class="form-check-label">Team Manager</label>
 							</div>
 						</div>
 						<div class="form-group">
 							<div class="form-check">
 								<input id="tournament_director" name="tournament_director" class="form-check-input" type="checkbox" value="Yes">
-								<label for="tournament_director" class="form-check-label">Tournament director</label>
+								<label for="tournament_director" class="form-check-label">Tournament Director</label>
 							</div>
 						</div>
 						<p>Please select all that apply</p>
