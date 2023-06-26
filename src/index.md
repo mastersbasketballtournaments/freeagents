@@ -5,15 +5,15 @@ Free Agent Basketball Masters
 
 Hiya,
 
-_[Free Agent Basketball Masters](https://freeagents.mastersbasketballtournaments.com)_ is a proposed new service from your friends at [Masters Basketball Tournaments](https://www.mastersbasketballtournaments.com) that is currently in the _expressions of interest_ phase. This idea was born out of the struggles we had to break into the Masters basketball circuit ourselves and hearing that many others seem to have experienced the same problem.
+_[Free Agent Basketball Masters](https://freeagents.mastersbasketballtournaments.com)_ is a proposed free service from your friends at [Masters Basketball Tournaments](https://www.mastersbasketballtournaments.com) that is currently in the _expressions of interest_ stage. This idea was born out of the struggles we had to break into the Masters basketball circuit ourselves and hearing that many others seem to have experienced the same problem.
 
-The idea is simple. A central worldwide match-making service that aims to help Masters basketball players looking for a team, and teams looking for players, to make contact. An incidental benefit, for Tournament Directors, is that they no longer have to be the intermediary between players and teams, therefore freeing them up for the enormous task of actually putting on the tournament for us players!
+The idea is simple. A central, worldwide, match-making service that aims to help Masters basketball players looking for a team, and teams looking for players, to make contact. An additional benefit for Tournament Directors is that they no longer have to be the intermediary between players and teams, therefore freeing them up for the enormous task of actually putting on the tournament for us players!
 
 Currently we're looking for expressions of interest in the service. It would be helpful if you could complete the following form so that we can gauge the interest in the idea.
 
 Once we have some progress to share, we may ask you to register for the service in all of the roles that you might have an interest in.
 
-So tell your Masters friends, Team Manager and that hard working Tournament Director, about the potential of this new service for our Masters basketball community!
+So tell your Masters friends, Team Manager and that hard working Tournament Director about the potential of this new service for our Masters basketball community!
 
 <form name="expression_of_interest" action="/thank-you/" method="POST" data-netlify="true" netlify-honeypot="subscribe" data-netlify-recaptcha="true">
 <input name="subject" type="hidden" value="Free Agent Basketball Masters - Expression of Interest" />
